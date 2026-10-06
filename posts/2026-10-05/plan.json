@@ -1,0 +1,33 @@
+{
+  "week_of": "2026-10-05",
+  "slots": [
+    {
+      "date": "2026-10-06",
+      "theme": "Introducing Homvi",
+      "image": "Main.png",
+      "caption": "Your car tells you when it needs a service. Your home doesn't.\n\nAC filters, water purifiers, solar panels, the generator, the car. Every home runs on a dozen maintenance schedules, and most of us keep them in our heads, or don't keep them at all.\n\nThat's why I'm building Homvi: an AI-powered home maintenance app that tracks every asset in your home, tells you what's overdue or coming up, and gives you a single Home Health Score at a glance.\n\nComing soon to Google Play. Follow the page to be first in line. 🏠\n\n#HomeMaintenance #Homeowners #PropTech #SmartHome #AIApps",
+      "posted": false
+    },
+    {
+      "date": "2026-10-07",
+      "theme": "AI appliance scan",
+      "image": "Scan.png",
+      "caption": "Nobody wants to type a 12-character model number into an app.\n\nSo in Homvi, you don't. Point your camera at the appliance's nameplate, and Homvi AI reads the brand, model and specs and fills them in for you. It also sets up the right service reminders automatically.\n\nAdding your AC takes seconds, not a hunt through the manual.\n\nWhat appliance in your home would you add first?\n\n#HomeMaintenance #ArtificialIntelligence #SmartHome #MobileApp #Homeowners",
+      "posted": false
+    },
+    {
+      "date": "2026-10-08",
+      "theme": "Warranty vault",
+      "image": "Vault.png",
+      "caption": "The receipt you need is always the one you can't find.\n\nUsually it turns up right after the warranty ran out.\n\nHomvi's Document Vault keeps warranties, receipts and invoices in one place, linked to the appliance they belong to. Snap a paper receipt and it's saved. And Homvi reminds you before a warranty expires, so you can still use it.\n\nWhere do you keep your appliance warranties today?\n\n#HomeMaintenance #Homeowners #PropTech #PersonalFinance",
+      "posted": false
+    },
+    {
+      "date": "2026-10-10",
+      "theme": "Founder story",
+      "image": "Founder.png",
+      "caption": "Every home runs on dozens of small jobs nobody tracks, until one of them breaks.\n\nI'm a developer, and I've watched small, skipped maintenance turn into big repair bills. The information always existed. It just lived on sticky notes, in old WhatsApp chats and in someone's memory.\n\nHomvi is my answer: one app that knows everything your home owns, when it needs care, and what it'll cost. I'll be sharing the build here as we head to launch on Google Play.\n\nIf you've ever been caught out by a surprise repair, I'd love to hear about it below. 👇\n\n#HomeMaintenance #BuildInPublic #StartupJourney #IndieHacker",
+      "posted": false
+    }
+  ]
+}
