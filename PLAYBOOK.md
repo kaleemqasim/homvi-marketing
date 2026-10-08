@@ -73,7 +73,18 @@ Use Zapier → LinkedIn:
 
 Rules:
 - Before publishing, check that the slot's `posted` value is false, so you never double-post. After a success, set `posted: true` and record `posted_at`, then push.
-- If publishing fails, retry once. If it fails again, leave the slot unposted, add an `error` field, push, and stop. Do not try other posting routes.
+- **Check the page before publishing, and after any error.** The create call can return an error such as "Could not find entity" even though the post went live. On 2026-10-08 a retry after that error double-posted. To see what's on the page, call Zapier LinkedIn `_zap_raw_request` with `tool_name` `linkedin_make_api_get_request`:
+  - `url`: `https://api.linkedin.com/rest/posts`
+  - `querystring`: `{"author": "urn:li:organization:144576993", "q": "author", "count": "10"}`
+  - `headers`: `{"LinkedIn-Version": "202601"}`. Don't add an X-Restli-Protocol-Version header. If this version is reported as not active, use a newer YYYYMM.
+  - `fail_on_errors`: `false`
+
+  A post on the page "matches" the slot if its `commentary` starts with the first line of the caption.
+- Before publishing, run that check. If a matching post is already there, don't publish. Mark the slot posted using that post's id and `publishedAt`.
+- If the create call returns an error, **do not retry right away.** Run the check first. If a matching post is there, it worked: mark the slot posted with that post's URL.
+- Retry only if the check shows no matching post. Retry once, and run the check again after that retry too.
+- If the check itself fails, don't retry at all. Add an `error` field, push, and stop.
+- If there's still no matching post after the retry, leave the slot unposted, add an `error` field, push, and stop. Do not try other posting routes.
 
 ## plan.json format
 
