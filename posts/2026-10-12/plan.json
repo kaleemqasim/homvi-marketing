@@ -1,0 +1,33 @@
+{
+  "week_of": "2026-10-12",
+  "slots": [
+    {
+      "date": "2026-10-12",
+      "theme": "Fall homeowner checklist",
+      "image": "FallChecklist.png",
+      "caption": "Your furnace has been sitting idle since spring. The first cold night is a bad time to find out it won't start.\n\nHere's a short fall homeowner checklist worth doing this month 🍂\n\n1. Book HVAC maintenance for your furnace or heat pump before the busy season.\n2. Swap the HVAC filter. Many need changing every 1 to 3 months, so check the label on yours.\n3. Clear the gutters once most of the leaves are down.\n4. Disconnect garden hoses and shut off outdoor faucets before the first freeze.\n5. Test your smoke and CO detectors.\n6. Run the generator for a few minutes so it's ready for winter outages.\n\nNone of these jobs is hard. The hard part is remembering all of them, every year.\n\nThat's what I'm building Homvi for. It's a home maintenance app where every asset gets its own service schedule and a reminder before it's due.\n\nWhat's on your fall list that I missed?\n\n#HomeMaintenance #Homeowners #HomeImprovement #SmartHome",
+      "posted": false
+    },
+    {
+      "date": "2026-10-14",
+      "theme": "AI assistant",
+      "image": "Assistant.png",
+      "caption": "It's the first chilly morning. You turn on the heat, and the house smells like something is burning.\n\nDo you call someone, or wait it out?\n\nThat's exactly the kind of moment Homvi's AI assistant is for. Ask in plain words, the way you'd text a friend who knows houses, and get a clear answer: a dusty smell the first time the heat runs after months off is common and usually fades. If it lingers or smells electrical, switch the system off and get it checked.\n\nIt handles the everyday home maintenance questions we all end up searching for, from when to service the AC to what's worth doing before winter. It can also give you a budget estimate for the maintenance coming up each quarter, so costs don't land as a surprise.\n\nComing soon to Google Play.\n\nWhat's the home question you always end up searching for?\n\n#HomeMaintenance #AIApps #ArtificialIntelligence #SmartHome #Homeowners",
+      "posted": false
+    },
+    {
+      "date": "2026-10-15",
+      "theme": "Service schedules",
+      "image": "Schedules.png",
+      "caption": "Your AC wants attention every season. Your water purifier filter, every few months. Your car, by the mile. Your solar panels and generator, on clocks of their own.\n\nNobody can hold all of that in their head.\n\nSo most of us don't. We wait for a warning light, a strange noise, or water that suddenly tastes off. That's when maintenance quietly turns into repair.\n\nHomvi gives every asset in your home its own service schedule. Add your AC or HVAC, RO purifier, car or EV, solar panels and generator, and each one gets its own reminders. The dashboard shows what's overdue, what's due soon and what's healthy, so you always know what to do next.\n\nOne home maintenance app instead of a dozen mental notes.\n\nWhich asset in your home is easiest to forget about?\n\n#HomeMaintenance #Homeowners #SmartHome #MobileApp",
+      "posted": false
+    },
+    {
+      "date": "2026-10-17",
+      "theme": "Design note: Home Health Score",
+      "image": "DesignNote.png",
+      "caption": "The easiest home screen to build for Homvi would have been a list of every task for every appliance in your house.\n\nAccurate. And completely overwhelming.\n\nNobody wants to open an app to a wall of chores. So I made a design decision: lead with one number. The Home Health Score sums up how your home is doing. Right under it sit three counts, overdue, due soon and healthy. Only after that comes the task list.\n\nThe test I keep coming back to: you should know in two seconds whether your home needs you today. If everything is green, close the app and enjoy your weekend.\n\nBuilding in public means sharing calls like this before launch, while they can still change. Homvi is coming soon to Google Play.\n\nWhen you open a home maintenance app, what do you want to see first?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #MobileApp",
+      "posted": false
+    }
+  ]
+}
