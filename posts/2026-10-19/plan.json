@@ -1,0 +1,33 @@
+{
+  "week_of": "2026-10-19",
+  "slots": [
+    {
+      "date": "2026-10-19",
+      "theme": "Problem → solution: the model number hunt",
+      "image": "ModelNumber.png",
+      "caption": "You book a fall HVAC tune-up, and they ask for the model number.\n\nCue the flashlight, the crawl behind the unit, and a lot of squinting at a faded sticker.\n\nIt's a small thing, but it happens with every appliance in the house. The furnace, the AC, the water heater, the generator. The details you need live on a metal nameplate in the least convenient spot, or in a manual that went out with the moving boxes.\n\nHomvi fixes this once. When you add an appliance, you photograph its nameplate, and Homvi AI reads the brand, model and specs and fills them in for you. It also sets up the right service reminders, so the next tune-up starts with the details already on your phone.\n\nNo typing. No hunting. No second trip behind the furnace.\n\nHomvi is a home maintenance app coming soon to Google Play.\n\nWhere is the hardest-to-reach nameplate in your home?\n\n#HomeMaintenance #Homeowners #AIApps #SmartHome",
+      "posted": false
+    },
+    {
+      "date": "2026-10-21",
+      "theme": "Winter pipe prep tips",
+      "image": "WinterPipes.png",
+      "caption": "If a pipe burst tonight, could you shut off the water in under a minute?\n\nMost of us would be hunting for the valve while the floor fills up.\n\nPipes freeze in winter, so late October is the right time to prep. A short homeowner checklist:\n\n1. Find your main water shut-off valve and label it. Make sure everyone at home knows where it is.\n2. Insulate exposed pipes in unheated spaces like the garage, attic and crawl space.\n3. Seal gaps where cold air reaches pipes from outside.\n4. Leaving on a trip? Keep the heat on at a low setting instead of switching it off.\n5. On very cold nights, let a faucet drip and open the cabinet doors under sinks on outside walls.\n\nMost of this takes one afternoon. The trick is doing it every year before the cold, not after the first freeze.\n\nThat's the habit I'm building Homvi around. Every asset in your home gets its own service schedule, so the furnace and generator get their pre-winter check on time. And when you're unsure about something, you can ask the AI assistant.\n\nWhat's your best tip for a cold snap? ❄️\n\n#HomeMaintenance #Homeowners #HomeImprovement",
+      "posted": false
+    },
+    {
+      "date": "2026-10-22",
+      "theme": "Budget insights",
+      "image": "BudgetInsights.png",
+      "caption": "Quick test: how much did your home cost you to maintain this year?\n\nNot the mortgage. The filter swaps, the furnace tune-up, the plumber visit, the generator service.\n\nMost of us can't answer. The money goes out in small, forgettable amounts, so it never feels like a budget line. Then one bigger repair lands and seems to come out of nowhere.\n\nHomvi's budget insights show your home maintenance spending as a monthly cost chart. You can see at a glance which months were heavy, instead of piecing it together from bank statements.\n\nThe AI assistant looks ahead too. Ask it about the coming quarter and it gives you a budget estimate for the maintenance that's due, so holiday season spending doesn't get a surprise furnace bill on top.\n\nHomvi is coming soon to Google Play.\n\nDo you track what your home costs to maintain, or is it a mystery too?\n\n#HomeMaintenance #PersonalFinance #Homeowners #AIApps",
+      "posted": false
+    },
+    {
+      "date": "2026-10-24",
+      "theme": "Founder note: assets, not to-do lists",
+      "image": "AssetsNotTodos.png",
+      "caption": "A to-do list knows what to do. It has no idea why.\n\n\"Change filter\" means very little six months later, when you can't remember which filter, what size, or when you last did it.\n\nSo one of the first decisions I made building Homvi was to organize it around assets, not tasks. Your AC, your water purifier, your car, your solar panels, your generator. Each one is a thing your home owns, and everything else hangs off it: its own service schedule, its specs from the nameplate scan, its warranty and receipts in the document vault.\n\nThe tasks still exist. They just belong to something.\n\nThat one choice made the rest easier to design. A reminder knows what it's for. A warranty alert knows which appliance it protects. The Home Health Score is simply all your assets, summed up.\n\nIt's the lesson I keep relearning while building in public: get the core model right and the features get simpler.\n\nHomvi is coming soon to Google Play. Follow the page to get launch news.\n\nHow do you keep track of the things your home owns?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #MobileApp",
+      "posted": false
+    }
+  ]
+}
