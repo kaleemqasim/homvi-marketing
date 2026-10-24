@@ -33,7 +33,9 @@
       "theme": "Founder note: assets, not to-do lists",
       "image": "AssetsNotTodos.png",
       "caption": "A to-do list knows what to do. It has no idea why.\n\n\"Change filter\" means very little six months later, when you can't remember which filter, what size, or when you last did it.\n\nSo one of the first decisions I made building Homvi was to organize it around assets, not tasks. Your AC, your water purifier, your car, your solar panels, your generator. Each one is a thing your home owns, and everything else hangs off it: its own service schedule, its specs from the nameplate scan, its warranty and receipts in the document vault.\n\nThe tasks still exist. They just belong to something.\n\nThat one choice made the rest easier to design. A reminder knows what it's for. A warranty alert knows which appliance it protects. The Home Health Score is simply all your assets, summed up.\n\nIt's the lesson I keep relearning while building in public: get the core model right and the features get simpler.\n\nHomvi is coming soon to Google Play. Follow the page to get launch news.\n\nHow do you keep track of the things your home owns?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #MobileApp",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-10-24T12:53:16.687000+00:00",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7519742810032590848/"
     }
   ]
 }
