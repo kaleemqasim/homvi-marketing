@@ -1,0 +1,34 @@
+{
+  "week_of": "2026-10-26",
+  "design_canvas": "https://claude.ai/artifact/FNe7BX7doUEatVWmuHxZWQ",
+  "slots": [
+    {
+      "date": "2026-10-26",
+      "theme": "Feature spotlight: warranty alerts",
+      "image": "WarrantyAlerts.png",
+      "caption": "The first cold night, your furnace starts making a noise it has never made before.\n\nYour next question is easy: is it still under warranty?\n\nFinding the answer is not. The paperwork is in a drawer, an email folder, or a box in the garage. And warranties rarely announce that they are about to end. They just quietly run out.\n\nHomvi's Document Vault keeps warranties, receipts and invoices in one place, each linked to the appliance it belongs to. Snap a paper receipt and it's saved. Open the furnace in Homvi and its warranty is right there, next to its service history.\n\nThen Homvi does the part nobody remembers to do: it alerts you before a warranty expires, while there is still time to book that inspection or file a claim.\n\nIt's an appliance warranty tracker built into a home maintenance app, so the paperwork lives where the appliances do.\n\nHomvi is coming soon to Google Play. Follow the page to get launch news.\n\nDo you know which of your appliance warranties ends next?\n\n#HomeMaintenance #Homeowners #SmartHome #MobileApp",
+      "posted": false
+    },
+    {
+      "date": "2026-10-28",
+      "theme": "Problem → solution: the generator that won't start",
+      "image": "GeneratorReady.png",
+      "caption": "The worst time to learn your generator won't start is the night the power goes out.\n\nIt happens because generators are the definition of out of sight, out of mind. They sit through spring, summer and fall doing nothing. Fuel goes stale, batteries drain, and nobody thinks about it until the lights go off in a winter storm.\n\nThe fix isn't complicated. Run it periodically, keep up with oil and fuel care, and get it serviced before the cold season. The hard part is remembering to do any of that for a machine you never use.\n\nThat's the gap Homvi is built to close. In Homvi, your generator is an asset with its own service schedule, separate from the AC, the furnace or the car. A pre-winter test run shows up on your dashboard as due soon, and turns red if it slips to overdue.\n\nIf you're not sure what a service should cover for your model, you can ask the Homvi AI assistant.\n\nHomvi is a home maintenance app coming soon to Google Play.\n\nWhen did you last start your generator?\n\n#HomeMaintenance #Homeowners #HomeImprovement #SmartHome",
+      "posted": false
+    },
+    {
+      "date": "2026-10-29",
+      "theme": "Clocks fall back home checklist",
+      "image": "FallBack.png",
+      "caption": "Clocks fall back this Sunday, November 1. You get an extra hour.\n\nHere's a good way to spend 15 minutes of it.\n\nTying small home jobs to the time change works because it's a date nobody forgets. A quick homeowner checklist for this weekend:\n\n1. Test every smoke alarm and carbon monoxide alarm. Press the test button and listen.\n2. Replace batteries in alarms that use them. Sealed long-life units need no swap, just the test.\n3. Check your HVAC filter. Heating season is starting, and a clogged filter makes the furnace work harder.\n4. Switch ceiling fans to spin clockwise on low, which nudges warm air back down into the room.\n5. Reset outdoor light timers for the earlier sunsets, and put fresh batteries in the emergency flashlight.\n\nNone of this is hard. It just needs a reminder at the right moment.\n\nThat's the idea behind Homvi's service schedules. Each asset in your home gets its own reminders, so the filter and the furnace check come up when they're due, not when something fails.\n\nWhat's on your clock-change list? 🕰️\n\n#HomeMaintenance #Homeowners #HomeImprovement",
+      "posted": false
+    },
+    {
+      "date": "2026-10-31",
+      "theme": "Founder note: setup is a feature",
+      "image": "SetupFeature.png",
+      "caption": "Every home maintenance app has the same weak spot: it's useless until you fill it in.\n\nReminders, a Home Health Score, budget estimates. All of it depends on the app knowing what's in your house. And that means adding the AC, the furnace, the water heater, the purifier, the generator, the car, one by one.\n\nThat setup step is where good intentions tend to stall. It's the least fun part of the whole experience, and it comes first.\n\nSo while building Homvi, I've treated setup as a core feature, not a form to get through. Two decisions came out of that.\n\nFirst, adding an appliance starts with a photo. You snap the nameplate and Homvi AI fills in the brand, model and specs.\n\nSecond, every asset arrives with service reminders already set up. You can adjust them, but you don't start from a blank calendar.\n\nThe goal is simple: get from a new install to a useful dashboard with as little typing as possible.\n\nI'm still refining this before launch, so I'd love to hear from you. What's the step that makes you give up on a new app?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #AIApps",
+      "posted": false
+    }
+  ]
+}
