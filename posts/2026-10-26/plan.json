@@ -34,7 +34,9 @@
       "theme": "Founder note: setup is a feature",
       "image": "SetupFeature.png",
       "caption": "Every home maintenance app has the same weak spot: it's useless until you fill it in.\n\nReminders, a Home Health Score, budget estimates. All of it depends on the app knowing what's in your house. And that means adding the AC, the furnace, the water heater, the purifier, the generator, the car, one by one.\n\nThat setup step is where good intentions tend to stall. It's the least fun part of the whole experience, and it comes first.\n\nSo while building Homvi, I've treated setup as a core feature, not a form to get through. Two decisions came out of that.\n\nFirst, adding an appliance starts with a photo. You snap the nameplate and Homvi AI fills in the brand, model and specs.\n\nSecond, every asset arrives with service reminders already set up. You can adjust them, but you don't start from a blank calendar.\n\nThe goal is simple: get from a new install to a useful dashboard with as little typing as possible.\n\nI'm still refining this before launch, so I'd love to hear from you. What's the step that makes you give up on a new app?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #AIApps",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-10-31T12:53:54Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522279682495578112/"
     }
   ]
 }
