@@ -1,0 +1,34 @@
+{
+  "week_of": "2026-11-02",
+  "design_canvas": "https://claude.ai/artifact/BWwmrGtxtiQW3LNiVXdyCy",
+  "slots": [
+    {
+      "date": "2026-11-02",
+      "theme": "Home tip: late-fall gutter checklist",
+      "image": "Gutters.png",
+      "caption": "Your trees just dropped their leaves. A good share of them are now sitting in your gutters.\n\nThat matters more in November than almost any other month. Clogged gutters overflow, and the water goes where you don't want it: down the siding, around the foundation, and once it freezes, along the roof edge.\n\nA quick late-fall homeowner checklist, best done once most leaves are down and before the first hard freeze:\n\n1. Clear leaves and debris from gutters and downspouts. Use a steady ladder, or hire it out.\n2. Run a hose through each downspout to confirm water flows freely.\n3. Make sure downspouts empty away from the foundation.\n4. Look for sagging sections, loose brackets and leaky seams.\n5. If you have gutter guards, check that debris isn't piling up on top.\n\nIt's an easy job to skip because nothing looks wrong until it rains.\n\nHomvi is a home maintenance app built around exactly this kind of reminder. Every asset gets its own service schedule, and the dashboard shows what's due soon before it turns overdue.\n\nWhat's the home job you always remember one storm too late?\n\n#HomeMaintenance #Homeowners #HomeImprovement",
+      "posted": false
+    },
+    {
+      "date": "2026-11-04",
+      "theme": "Feature spotlight: AI assistant, should you cover the AC?",
+      "image": "AssistantAC.png",
+      "caption": "Should you cover your outdoor AC unit for the winter?\n\nAsk three neighbors and you'll get three answers: wrap it, put a board on top, or leave it alone.\n\nThis is the kind of question Homvi's AI assistant is built for. You ask in plain words and get a practical answer.\n\nOutdoor units are designed to sit outside year-round, so most don't need a full cover. A tight, non-breathable wrap can trap moisture and give rodents a sheltered place to nest. If falling leaves or ice are a concern, a breathable cover over just the top is a common middle ground. Your manufacturer's guidance always comes first.\n\nAnd if you have a heat pump, it's working all winter. Leave it uncovered.\n\nWhat matters more is the boring stuff: clear the leaves and debris around the unit and keep your HVAC maintenance on schedule. Homvi tracks that schedule for you, and the assistant is there for the questions in between.\n\nHomvi is coming soon to Google Play. Follow the page to get launch news.\n\nDo you cover your AC for winter, or leave it be?\n\n#HomeMaintenance #AIApps #SmartHome #Homeowners",
+      "posted": false
+    },
+    {
+      "date": "2026-11-05",
+      "theme": "Problem → solution: appliances before Thanksgiving hosting",
+      "image": "HostingReady.png",
+      "caption": "Appliances rarely fail on a quiet Tuesday. They fail on the day the house is full.\n\nThanksgiving is three weeks from today, on November 26. For a lot of homes it's one of the busiest days of the year for the oven, the dishwasher, the water heater and the fridge. Extra guests, extra showers, extra loads, and a fridge packed to the door.\n\nThe problem isn't that these appliances are fragile. It's that their maintenance is invisible until it's urgent. Nobody thinks about the water heater in early November, because nothing is wrong yet.\n\nThat's the gap Homvi is built for. Each asset in your home gets its own service schedule, and the dashboard shows what's overdue and what's due soon, so you see it weeks ahead instead of the morning of.\n\nA simple pre-holiday checklist: run the oven once, clean the dishwasher filter, check the fridge door seals, and look at when the water heater was last flushed. Not sure what's worth doing? Ask the Homvi AI assistant.\n\nHomvi is coming soon to Google Play.\n\nHosting this year? Which appliance worries you most?\n\n#HomeMaintenance #Homeowners #HomeImprovement #SmartHome",
+      "posted": false
+    },
+    {
+      "date": "2026-11-07",
+      "theme": "Founder note: everything is an asset",
+      "image": "EverythingAsset.png",
+      "caption": "It would have been simpler to build Homvi for appliances only. The AC, the furnace, the water heater.\n\nBut when I listed what actually needs maintenance in a home, the list didn't stop at the walls.\n\nThe car needs service by the mile. Solar panels need cleaning and inspection. The generator needs a test run before the season you need it. The water purifier needs new filters every few months. All of it is part of running a home, and all of it lives in different places: a sticker on the windshield, an installer's email, a note on the fridge.\n\nSo I made a design decision early on: in Homvi, everything is an asset. A car or EV, solar panels, a generator and an RO purifier sit on the same dashboard as the HVAC, each with its own service schedule, all feeding one Home Health Score.\n\nThat choice adds work. Each asset keeps a different rhythm, by date, by season or by mileage. But splitting them across separate apps felt like the exact problem I set out to fix.\n\nWhat's one thing you maintain that most apps would forget?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #PropTech",
+      "posted": false
+    }
+  ]
+}
