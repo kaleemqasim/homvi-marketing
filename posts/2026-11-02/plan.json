@@ -35,7 +35,9 @@
       "theme": "Founder note: everything is an asset",
       "image": "EverythingAsset.png",
       "caption": "It would have been simpler to build Homvi for appliances only. The AC, the furnace, the water heater.\n\nBut when I listed what actually needs maintenance in a home, the list didn't stop at the walls.\n\nThe car needs service by the mile. Solar panels need cleaning and inspection. The generator needs a test run before the season you need it. The water purifier needs new filters every few months. All of it is part of running a home, and all of it lives in different places: a sticker on the windshield, an installer's email, a note on the fridge.\n\nSo I made a design decision early on: in Homvi, everything is an asset. A car or EV, solar panels, a generator and an RO purifier sit on the same dashboard as the HVAC, each with its own service schedule, all feeding one Home Health Score.\n\nThat choice adds work. Each asset keeps a different rhythm, by date, by season or by mileage. But splitting them across separate apps felt like the exact problem I set out to fix.\n\nWhat's one thing you maintain that most apps would forget?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #PropTech",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-11-07T13:53:45.121000Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524831459392692225/"
     }
   ]
 }
