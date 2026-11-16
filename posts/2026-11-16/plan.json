@@ -1,0 +1,33 @@
+{
+  "week_of": "2026-11-16",
+  "slots": [
+    {
+      "date": "2026-11-16",
+      "theme": "Feature spotlight: Document Vault, save the receipt the day you buy it",
+      "image": "VaultReceipts.png",
+      "caption": "The best day to save an appliance receipt is the day you buy it.\n\nEvery day after that, it gets a little harder to find.\n\nHoliday shopping season is about to start, and for a lot of homes that means a new appliance or two. A washer, a fridge, maybe the dishwasher you've been putting off. Each one comes with a receipt and a warranty that matter most a year or two from now, long after the box is gone.\n\nHomvi's Document Vault is built for that moment. Snap the paper receipt or save the invoice, and it's linked to the appliance it belongs to. Add the appliance itself with a photo of its nameplate, and Homvi AI fills in the brand, model and specs.\n\nLater, when something stops working, the warranty sits right next to its service history. And Homvi alerts you before a warranty expires, not a week after.\n\nIt's an appliance warranty tracker that lives inside your home maintenance app.\n\nHomvi is coming soon to Google Play. Follow the page to get launch news.\n\nWhere do your receipts end up right now?\n\n#HomeMaintenance #Homeowners #SmartHome #PersonalFinance",
+      "posted": false
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "Home tip: dryer vent cleaning before holiday laundry",
+      "image": "DryerVent.png",
+      "caption": "Your dryer's lint screen catches most of the lint. The rest goes somewhere you never see.\n\nIt builds up in the duct behind the dryer and along the vent to the outside wall. Over time that restricts airflow, so loads take longer and the dryer runs hotter than it should. Lint is also flammable, which is why dryer vent cleaning belongs on every homeowner checklist.\n\nWith guests, towels and bedding piling up over the holidays, this is a good week for it:\n\n1. Clean the lint screen after every load.\n2. Wash the screen with warm soapy water now and then if dryer sheets leave a film.\n3. Pull the dryer out and check the duct for kinks, crushing or loose joints.\n4. Clean the vent duct at least once a year, yourself or with a pro.\n5. Step outside while the dryer runs and make sure the flap opens and air flows freely.\n\nSigns it's overdue: clothes that need a second cycle, a dryer that's hot to the touch, or a burning smell.\n\nIn Homvi, the dryer vent can be its own asset with a yearly reminder, so it shows up as due soon instead of forgotten.\n\nWhen did you last look behind your dryer?\n\n#HomeMaintenance #Homeowners #HomeImprovement",
+      "posted": false
+    },
+    {
+      "date": "2026-11-19",
+      "theme": "Problem → solution: the water filter you can't remember changing",
+      "image": "PurifierFilter.png",
+      "caption": "Quick question: when did you last change your water filter?\n\nIf the honest answer is \"a while ago, I think,\" you're in good company.\n\nWater purifier and RO filters are easy to forget because nothing visibly breaks when they're due. The water still comes out. It just may not be filtered the way it was when the cartridge was new.\n\nThe real problem is that the last change date lives nowhere. Not on the cartridge, not on your calendar. Most of us are guessing.\n\nHomvi treats your water purifier as an asset with its own service schedule. Log the last filter change once, and Homvi reminds you before the next one is due. On the dashboard it moves from healthy to due soon to overdue, so it's visible long before you'd think to check.\n\nDifferent stages often run on different schedules, so follow your manufacturer's guidance, or ask the Homvi AI assistant what to expect for your model.\n\nHomvi is a home maintenance app coming soon to Google Play.\n\nDo you know when your filter is due?\n\n#HomeMaintenance #Homeowners #SmartHome #AIApps",
+      "posted": false
+    },
+    {
+      "date": "2026-11-21",
+      "theme": "Founder note: reminders people don't tune out",
+      "image": "Reminders.png",
+      "caption": "The fastest way to get people to ignore reminders is to send too many of them.\n\nIt's a design problem I've thought about a lot while building Homvi. A home has a lot going on: the HVAC filter, the furnace, the purifier, the generator, the car. If every one of those pinged you on its due date, the app would turn into noise within a week. And noise gets muted.\n\nSo I've designed around one idea: a reminder should arrive while you can still act on it calmly, not when it's already a problem.\n\nThat's why Homvi uses three states instead of two. Healthy is green and stays out of your way. Due soon is amber, the heads-up window to plan a Saturday or book a service. Overdue is red, and it's meant to be rare.\n\nThe dashboard groups everything by those states, so you get one clear picture instead of a stack of alerts.\n\nThe tricky part is lead time. A filter swap and a furnace service need very different amounts of notice, so \"due soon\" can't mean the same thing for every asset.\n\nHow much notice do you want before a home job is due?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #MobileApp",
+      "posted": false
+    }
+  ]
+}
