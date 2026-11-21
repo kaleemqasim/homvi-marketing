@@ -34,7 +34,10 @@
       "theme": "Founder note: reminders people don't tune out",
       "image": "Reminders.png",
       "caption": "The fastest way to get people to ignore reminders is to send too many of them.\n\nIt's a design problem I've thought about a lot while building Homvi. A home has a lot going on: the HVAC filter, the furnace, the purifier, the generator, the car. If every one of those pinged you on its due date, the app would turn into noise within a week. And noise gets muted.\n\nSo I've designed around one idea: a reminder should arrive while you can still act on it calmly, not when it's already a problem.\n\nThat's why Homvi uses three states instead of two. Healthy is green and stays out of your way. Due soon is amber, the heads-up window to plan a Saturday or book a service. Overdue is red, and it's meant to be rare.\n\nThe dashboard groups everything by those states, so you get one clear picture instead of a stack of alerts.\n\nThe tricky part is lead time. A filter swap and a furnace service need very different amounts of notice, so \"due soon\" can't mean the same thing for every asset.\n\nHow much notice do you want before a home job is due?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #MobileApp",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-11-21T13:53:43.962000Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7529904848176271360/",
+      "note": "Create call returned \"Could not find entity\" but the page check showed the post live; not retried."
     }
   ]
 }
