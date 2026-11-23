@@ -1,0 +1,33 @@
+{
+  "week_of": "2026-11-23",
+  "slots": [
+    {
+      "date": "2026-11-23",
+      "theme": "Home tip: heating check before the deep cold",
+      "image": "HeatingCheck.png",
+      "caption": "Your furnace is about to have its busiest stretch of the year. Most of us haven't looked at it since spring.\n\nThe first real cold snap is when small problems show up: a clogged filter, a blocked vent, a strange smell on startup. A quick check this week beats a no-heat call over a holiday weekend.\n\nA quick heating check before the deep cold:\n\n1. Check the HVAC filter. If it looks gray and dusty, replace it, using the size and schedule printed on the frame.\n2. Walk the house and make sure vents and return grilles aren't blocked by rugs, furniture or holiday decor.\n3. Test your smoke and carbon monoxide alarms, and swap batteries if needed.\n4. Keep the area around the furnace clear. No boxes stored against it.\n5. If your system hasn't had its yearly HVAC maintenance visit, book it now, before the busy season.\n\nIn Homvi, your HVAC system is an asset with its own service schedule, so the filter change and the yearly service show up on the dashboard as due soon instead of as a surprise.\n\nWhat would you add to this homeowner checklist?\n\n#HomeMaintenance #Homeowners #HomeImprovement #SmartHome",
+      "posted": false
+    },
+    {
+      "date": "2026-11-25",
+      "theme": "Problem → solution: solar panels, out of sight and out of schedule",
+      "image": "SolarSchedule.png",
+      "caption": "Solar panels might be the easiest thing in your home to forget you own.\n\nThey sit on the roof, out of sight, doing their job quietly. That's exactly the problem.\n\nWhen a solar system needs attention, nothing breaks loudly. No dripping, no noise, no puddle on the floor. Dirty panels or an inverter fault can go unnoticed for a while, and in winter, shorter days make any dip easy to blame on the season.\n\nSolar owners also have paperwork worth keeping close: panel and inverter warranties, the installer's invoice, past service records.\n\nHomvi treats solar panels as an asset like any other. Give the system its own service schedule for inspections and cleaning, based on your installer's guidance. Keep the warranties and invoices in the Document Vault, linked to the system, with an alert before a warranty expires.\n\nNot sure whether your panels need a look after a storm or heavy snow? Ask the Homvi AI assistant.\n\nHomvi is a home maintenance app coming soon to Google Play. Follow the page to get launch news.\n\nSolar owners, how do you keep track of your system's upkeep?\n\n#HomeMaintenance #Homeowners #SmartHome #PropTech",
+      "posted": false
+    },
+    {
+      "date": "2026-11-26",
+      "theme": "Founder note: a Thanksgiving thank-you to the person who remembers",
+      "image": "WhoRemembers.png",
+      "caption": "In a lot of homes, one person keeps the entire maintenance schedule in their head.\n\nThey know when the furnace was last serviced, which drawer the dishwasher warranty is in, and that the generator needs a test run before the first storm. It mostly works, until that person is busy, away, or just tired of being the one who remembers.\n\nIf you're at someone's home for Thanksgiving today, there's a good chance that person is in the room.\n\nThat's the job I'm building Homvi to help with. Not to replace the person who remembers, but to write it all down so it doesn't live in one head. Every asset gets its own schedule. Every warranty gets a place in the vault. The dashboard puts the whole house on one screen instead of in one memory.\n\nBuilding this has made me notice how much invisible work goes into keeping a home running. Today feels like the right day to say thank you to whoever does it in yours.\n\nHappy Thanksgiving.\n\nWho's the person who remembers in your home?\n\n#HomeMaintenance #BuildInPublic #StartupJourney #Homeowners",
+      "posted": false
+    },
+    {
+      "date": "2026-11-28",
+      "theme": "Feature spotlight: AI appliance scan for new holiday appliances",
+      "image": "ScanNewAppliance.png",
+      "caption": "The best time to add an appliance to your records is the first few minutes after it's installed.\n\nThe box is still in the hallway. The manual is on the counter. And the nameplate is easy to reach, before the fridge slides into its spot or the washer gets pushed against the wall.\n\nIf a new appliance came home with you this holiday weekend, that's the window.\n\nHomvi's AI appliance scan is built for it. Photograph the nameplate, and Homvi AI fills in the brand, model and specs. No typing a model number off a sticker by phone flashlight. Homvi then sets up service reminders for that asset, so the first filter change or cleaning is already on the schedule.\n\nSave the receipt to the Document Vault while you're at it, and the warranty is linked to the same appliance.\n\nMonths from now, when you need a part or a repair, the model number is a tap away instead of behind a heavy appliance.\n\nHomvi is coming soon to Google Play. Follow the page to get launch news.\n\nWhat's the last appliance you had to pull out just to read its label?\n\n#HomeMaintenance #AIApps #SmartHome #Homeowners",
+      "posted": false
+    }
+  ]
+}
